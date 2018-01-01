@@ -77,6 +77,7 @@ rm $kindlegen_tarball
 
 install 'MuPDF' mupdf mupdf-tools
 install 'FFmpeg' ffmpeg
+install 'rails' rails
 
 # Needed for docs generation.
 update-locale LANG=en_US.UTF-8 LANGUAGE=en_US.UTF-8 LC_ALL=en_US.UTF-8
