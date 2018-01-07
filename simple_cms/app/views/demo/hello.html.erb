@@ -1,0 +1,23 @@
+<h1>Hello World from hello!</h1>
+
+<%= 1 + 1 %><br/>
+
+<% target = "world" %>
+<%= "Hello #{target}" %>
+
+<br/>
+
+<% @array.each do |n| %>
+	<%= n %><br/>
+<% end %>
+
+<br/><br/>
+<a href="/demo/index">index page 1</a>
+
+<br/><br/>
+<%= link_to('Index Page 2',{:controller => 'demo',:action => 'index'}) %>
+
+<br/><br/>
+ID: <%= @id %><br/>
+Page: <%= params[:page] %><br/>
+<%= link_to('Next Page',{:controller => 'demo',:action => 'hello', :page => params[:page].to_i + 1, :id => 20 }) %>
