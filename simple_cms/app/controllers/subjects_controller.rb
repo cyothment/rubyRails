@@ -1,5 +1,7 @@
 class SubjectsController < ApplicationController
   
+  layout 'admin'
+
   def index
     @subjects = Subject.sorted
   end
@@ -12,6 +14,7 @@ class SubjectsController < ApplicationController
   def new
     #Instantiate new variable of the object
     @subject = Subject.new
+    @subject_count = Subject.count + 1
   end
 
   def create
@@ -24,6 +27,7 @@ class SubjectsController < ApplicationController
       redirect_to(subjects_path)
     #If save fails, redisplay the form so user can fix problems
     else
+      @subject_count = Subject.count + 1
       render('new')
     end
   end
@@ -31,6 +35,7 @@ class SubjectsController < ApplicationController
   def edit
     #Display a specific object instance passed by a parameter
     @subject = Subject.find(params[:id])
+    @subject_count = Subject.count
   end
 
   def update
@@ -43,6 +48,7 @@ class SubjectsController < ApplicationController
       redirect_to(subject_path(@subject))
     #If save fails, redisplay the form so user can fix problems
     else
+      @subject_count = Subject.count
       render('edit')
     end
   end

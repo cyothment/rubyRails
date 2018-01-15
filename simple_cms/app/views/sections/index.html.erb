@@ -1,9 +1,3 @@
-<% if !flash[:notice].blank? %>
-	<div class="notice">
-		<%= flash[:notice] %>
-	</div>
-<% end %>
-
 <div class="sections index">
   <h2>Sections</h2>
 
@@ -22,7 +16,7 @@
       <td><%= section.page_id %></td>
       <td><%= section.position %></td>
       <td class="center"><%= section.name %></td>
-      <td class="center"><%= section.visible ? 'Yes' : 'No' %></td>
+      <td class="center"><%= status_tag(section.visible) %></td>
       <td class="actions">
         <%= link_to("Show", section_path(section.id), :class => 'action show') %>
         <%= link_to("Edit", edit_section_path(section.id), :class => 'action edit') %>

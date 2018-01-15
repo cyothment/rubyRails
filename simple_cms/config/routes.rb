@@ -25,7 +25,7 @@ Rails.application.routes.draw do
  	get 'demo/hello'
  	get 'demo/other_hello'
  	get 'demo/lynda'
-
+  get 'demo/escape_output'
 	
     #Default router - will probably go away in the future
   	#get ':controller(/:action(/:id))'
