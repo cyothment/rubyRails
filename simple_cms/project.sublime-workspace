@@ -1,0 +1,1475 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"page",
+				"page_params"
+			],
+			[
+				"subject",
+				"subject_path"
+			],
+			[
+				"part",
+				"particles"
+			],
+			[
+				"my",
+				"myModule"
+			],
+			[
+				"fil",
+				"filetered"
+			],
+			[
+				"se",
+				"set_id"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"sub",
+				"subtitle"
+			],
+			[
+				"xm",
+				"xml_content"
+			],
+			[
+				"line",
+				"line2"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"x",
+				"x_start"
+			],
+			[
+				"x_",
+				"x_start"
+			],
+			[
+				"print",
+				"printRow"
+			],
+			[
+				"prin",
+				"printRow"
+			],
+			[
+				"pri",
+				"printRow"
+			],
+			[
+				"row",
+				"rowNum"
+			],
+			[
+				"p",
+				"printRow"
+			],
+			[
+				"bin",
+				"binFrequency"
+			],
+			[
+				"max",
+				"maximum"
+			],
+			[
+				"num",
+				"numOfBins"
+			],
+			[
+				"valu",
+				"valuePair"
+			],
+			[
+				"col",
+				"columnNames"
+			],
+			[
+				"colu",
+				"columnNames"
+			],
+			[
+				"colum",
+				"columnCounter"
+			],
+			[
+				"nu",
+				"numColumns"
+			],
+			[
+				"pr",
+				"printString"
+			],
+			[
+				"count",
+				"counter"
+			],
+			[
+				"m",
+				"minimum"
+			],
+			[
+				"ma",
+				"markedRows"
+			],
+			[
+				"int",
+				"int_list"
+			],
+			[
+				"In",
+				"IntegerField"
+			],
+			[
+				"flask",
+				"flask_login"
+			],
+			[
+				"c",
+				"column"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"magin",
+				"margin-top"
+			],
+			[
+				"position",
+				"position"
+			],
+			[
+				"header",
+				"header-section"
+			],
+			[
+				"list",
+				"list-style-position"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"border-bott",
+				"border-bottom-width"
+			],
+			[
+				"backg",
+				"background-position"
+			],
+			[
+				"onmous",
+				"onmouseover\tAttr"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"head",
+				"header-section"
+			],
+			[
+				"hea",
+				"header-section"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"par",
+				"paragraph3"
+			],
+			[
+				"para",
+				"paragraph3button"
+			],
+			[
+				"paragra",
+				"paragraph2"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"flo",
+				"float-left"
+			],
+			[
+				"middle",
+				"middle-align"
+			],
+			[
+				"mid",
+				"middle-align"
+			],
+			[
+				"mi",
+				"middle-align"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"alig",
+				"align-justified"
+			],
+			[
+				"sty",
+				"font-style"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"backgr",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 631,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/page.rb",
+			"settings":
+			{
+				"buffer_size": 139,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/admin_user.rb",
+			"settings":
+			{
+				"buffer_size": 253,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/section.rb",
+			"settings":
+			{
+				"buffer_size": 134,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/section_edit.rb",
+			"settings":
+			{
+				"buffer_size": 89,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/subject.rb",
+			"settings":
+			{
+				"buffer_size": 340,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/subjects_controller.rb",
+			"settings":
+			{
+				"buffer_size": 1718,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/subjects/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 1004,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/subjects/show.html.erb",
+			"settings":
+			{
+				"buffer_size": 709,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/subjects/new.html.erb",
+			"settings":
+			{
+				"buffer_size": 602,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/subjects/edit.html.erb",
+			"settings":
+			{
+				"buffer_size": 623,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/subjects/delete.html.erb",
+			"settings":
+			{
+				"buffer_size": 415,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/pages_controller.rb",
+			"settings":
+			{
+				"buffer_size": 1043,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/pages/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 962,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/pages/show.html.erb",
+			"settings":
+			{
+				"buffer_size": 1029,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/pages/new.html.erb",
+			"settings":
+			{
+				"buffer_size": 784,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/pages/edit.html.erb",
+			"settings":
+			{
+				"buffer_size": 787,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/pages/delete.html.erb",
+			"settings":
+			{
+				"buffer_size": 397,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/sections_controller.rb",
+			"settings":
+			{
+				"buffer_size": 1180,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/sections/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 1006,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/sections/show.html.erb",
+			"settings":
+			{
+				"buffer_size": 1159,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/sections/new.html.erb",
+			"settings":
+			{
+				"buffer_size": 897,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/sections/edit.html.erb",
+			"settings":
+			{
+				"buffer_size": 900,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/sections/delete.html.erb",
+			"settings":
+			{
+				"buffer_size": 415,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 300.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/cyoth/Downloads/Ex_Files_RubyonRails5_EssT/Ex_Files_RubyonRails5_EssT/Chapter_08/08_08/paste_into_delete.html.erb",
+		"/C/Users/cyoth/Downloads/Ex_Files_RubyonRails5_EssT/Ex_Files_RubyonRails5_EssT/Chapter_08/08_04/paste_into_new.html.erb",
+		"/C/Users/cyoth/Downloads/Ex_Files_RubyonRails5_EssT/Ex_Files_RubyonRails5_EssT/Chapter_08/08_02/paste_into_show.html.erb",
+		"/C/Users/cyoth/Downloads/Ex_Files_RubyonRails5_EssT/Ex_Files_RubyonRails5_EssT/Chapter_08/08_01/paste_into_index.html.erb",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/rubyRails/simple_cms/db/migrate/20180114200034_create_admin_users_pages_join.rb",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/rubyRails/simple_cms/db/migrate/20180114201314_create_section_edits.rb",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/rubyRails/simple_cms/app/models/page.rb",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/rubyRails/simple_cms/app/models/subject.rb",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/rubyRails/simple_cms/app/models/admin_user.rb",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/rubyRails/simple_cms/app/models/user.rb",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/rubyRails/simple_cms/app/models/application_record.rb",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/rubyRails/simple_cms/app/views/demo/hello.html.erb",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/rubyRails/simple_cms/app/views/demo/index.html.erb",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/rubyRails/simple_cms/app/controllers/demo_controller.rb",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/rubyRails/simple_cms/config/routes.rb",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/rubyRails/simple_cms/db/migrate/20180107045649_create_subjects.rb",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/rubyRails/simple_cms/db/migrate/20180107045709_create_sections.rb",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/rubyRails/simple_cms/db/migrate/20180107045703_create_pages.rb",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/rubyRails/simple_cms/db/migrate/20180107043237_alter_users.rb",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/rubyRails/simple_cms/db/migrate/20180107040930_create_users.rb",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/rubyRails/simple_cms/db/schema.rb",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/rubyRails/simple_cms/db/migrate/20180106235654_do_nothing_yet.rb",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/rubyRails/simple_cms/config/database.yml",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/rubyRails/simple_cms/app/controllers/test_controller_controller.rb",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/rubyRails/simple_cms/app/views/test_controller/index.html.erb",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/rubyRails/Vagrantfile",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/rubyRails/simple_cms/config/environments/development.rb",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/rubyRails/simple_cms/Gemfile",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/rubyRails/simple_cms/log/development.log",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/rubyRails/bootstrap.sh",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/railsProject1/Vagrantfile",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/railsProject1/Cheffile",
+		"/C/Users/cyoth/Documents/Programming/webproj/install-ruby.sh",
+		"/C/Users/cyoth/Documents/Programming/webproj/install-rvm.sh",
+		"/C/Users/cyoth/Documents/Programming/webproj/Vagrantfile",
+		"/C/Users/cyoth/Documents/Programming/webproj/src/projFiles/scripts/particles.js/demo/js/app.js",
+		"/C/Users/cyoth/Documents/Programming/webproj/src/projFiles/scripts/app.js",
+		"/C/Users/cyoth/Documents/Programming/webproj/src/projFiles/particles.json",
+		"/C/Users/cyoth/Documents/Programming/webproj/Features",
+		"/C/Users/cyoth/Documents/Programming/webproj/src/projFiles/scripts/particles.js/demo/index.html",
+		"/C/Users/cyoth/Documents/Programming/webproj/src/projFiles/index.html",
+		"/C/Users/cyoth/Documents/Programming/webproj/src/projFiles/scripts/particles.js/demo/particles.json",
+		"/C/Users/cyoth/Documents/Programming/webproj/src/projFiles/scripts/particles.js/demo/js/lib/stats.js",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/meanStack1/Vagrantfile",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/meanStack1/provision.sh",
+		"/C/Users/cyoth/Documents/Programming/aws/hello_app/app/controllers/application_controller.rb",
+		"/C/Users/cyoth/Documents/Programming/aws/hello_app/config/routes.rb",
+		"/C/Users/cyoth/Documents/Programming/virtualEnv/railsProject1/Cheffile.file",
+		"/C/Users/cyoth/Documents/Programming/aws/hello_app/Gemfile",
+		"/C/Users/cyoth/Documents/Programming/aws/hello_app/config/environment.rb",
+		"/C/Users/cyoth/Documents/Programming/aws/hello_app/config/environments/production.rb",
+		"/C/Users/cyoth/Documents/Programming/aws/hello_app/config/environments/development.rb",
+		"/C/Users/cyoth/Documents/Programming/aws/hello_app/config.ru",
+		"/C/Users/cyoth/Documents/Programming/aws/hello_app/config/cable.yml",
+		"/C/Users/cyoth/Documents/Programming/aws/hello_app/config/boot.rb",
+		"/C/Users/cyoth/Documents/Programming/aws/hello_app/app/channels/application_cable/connection.rb",
+		"/C/Users/cyoth/Documents/Programming/aws/hello_app/config/secrets.yml",
+		"/C/Users/cyoth/Documents/Programming/aws/build/index.html",
+		"/C/Users/cyoth/Documents/Programming/aws/build/express-static-demo.js",
+		"/C/Users/cyoth/Documents/Programming/aws/build/write-file-demo.js",
+		"/C/Users/cyoth/Documents/Programming/aws/build/read-directory-demo.js",
+		"/C/Users/cyoth/Documents/Programming/aws/build/read-demo.js",
+		"/C/Users/cyoth/Documents/Programming/aws/build/package.json",
+		"/C/Users/cyoth/Documents/Programming/aws/build/data1.json",
+		"/C/Users/cyoth/Documents/Programming/aws/build/gulpFile.js",
+		"/C/Users/cyoth/Documents/Programming/aws/build/my-module.js",
+		"/C/Users/cyoth/Documents/Programming/aws/build/module-demo.js",
+		"/C/Users/cyoth/Documents/Programming/aws/Exercise Files/01_03/module-demo.js",
+		"/C/Users/cyoth/Documents/Programming/aws/Exercise Files/01_03/mymodule.js",
+		"/C/Users/cyoth/Documents/Programming/aws/Exercise Files/01_03/sync-demo.js",
+		"/C/Users/cyoth/Documents/Programming/aws/Exercise Files/01_03/async-demo.js",
+		"/C/Users/cyoth/Documents/Programming/tryNode/todomvc-plusplus/db/database.js",
+		"/C/Users/cyoth/Documents/Programming/tryNode/todomvc-plusplus/config/user.js",
+		"/C/Users/cyoth/Documents/Programming/tryNode/todomvc-plusplus/config/user.save.js",
+		"/C/Users/cyoth/Downloads/Ex_Files_UaR_Node/Ex_Files_UaR_Node/Exercise Files/01_03/async-demo.js",
+		"/C/Users/cyoth/Documents/Programming/tryNode/todomvc-plusplus/config/test.js",
+		"/C/Users/cyoth/AppData/Local/lxss/home/y/projects/nodeTutorial1/program.js",
+		"/C/Users/cyoth/Documents/Programming/javascripting/looping-through-arrays.js",
+		"/C/Users/cyoth/Documents/Programming/javascripting/accessing-array-values.js",
+		"/C/Users/cyoth/Documents/Programming/javascripting/array-filtering.js",
+		"/C/Users/cyoth/Documents/Programming/javascripting/arrays.js",
+		"/C/Users/cyoth/Documents/Programming/javascripting/for-loop.js",
+		"/C/Users/cyoth/Documents/Programming/javascripting/if-statement.js",
+		"/C/Users/cyoth/Documents/Programming/javascripting/number-to-string.js",
+		"/C/Users/cyoth/Documents/Programming/javascripting/string-length.js",
+		"/C/Users/cyoth/Documents/Programming/javascripting/rounding-numbers.js",
+		"/C/Users/cyoth/Documents/Programming/javascripting/numbers.js",
+		"/C/Users/cyoth/Documents/Programming/javascripting/revising-strings.js",
+		"/C/Users/cyoth/Documents/Programming/javascripting/strings.js",
+		"/C/Users/cyoth/Documents/Programming/javascripting/variables.js",
+		"/C/Users/cyoth/Documents/Programming/javascripting/javascripting.js",
+		"/C/Users/cyoth/Downloads/apiai-facts-about-google-nodejs-master/apiai-facts-about-google-nodejs-master/FactsAboutGoogle/agent.json",
+		"/C/Users/cyoth/Downloads/apiai-facts-about-google-nodejs-master/apiai-facts-about-google-nodejs-master/index.js",
+		"/C/Users/cyoth/Documents/Programming/googleHome/proj1/google-action-three-doors/action.json",
+		"/C/Users/cyoth/Downloads/apiai-facts-about-google-nodejs-master/apiai-facts-about-google-nodejs-master/FactsAboutGoogle/intents/Default Welcome Intent.json",
+		"/C/Users/cyoth/Downloads/apiai-facts-about-google-nodejs-master/apiai-facts-about-google-nodejs-master/CONTRIBUTING.md",
+		"/C/Users/cyoth/Downloads/apiai-facts-about-google-nodejs-master/apiai-facts-about-google-nodejs-master/README.md",
+		"/C/Users/cyoth/Downloads/apiai-facts-about-google-nodejs-master/apiai-facts-about-google-nodejs-master/FactsAboutGoogle/intents/choose_fact.json",
+		"/C/Users/cyoth/Downloads/apiai-facts-about-google-nodejs-master/apiai-facts-about-google-nodejs-master/FactsAboutGoogle/entities/fact-category.json",
+		"/C/Users/cyoth/Downloads/apiai-facts-about-google-nodejs-master/apiai-facts-about-google-nodejs-master/FactsAboutGoogle/intents/choose_cats.json",
+		"/C/Users/cyoth/Documents/Programming/omdb_dataset/movie_list.txt",
+		"/C/Users/cyoth/Downloads/ml-10m/ml-10M100K/allbut.pl",
+		"/C/Users/cyoth/Documents/Programming/Challenges/294_easy/scrabbleHelper.py",
+		"/C/Users/cyoth/Documents/Programming/Challenges/294_easy/rack.py",
+		"/C/Users/cyoth/Documents/Programming/Challenges/294_easy/main.py",
+		"/C/Users/cyoth/Documents/Programming/Challenges/295_easy/main.py",
+		"/C/Users/cyoth/Documents/Programming/Challenges/302_hard/functions.py",
+		"/C/Users/cyoth/Documents/Programming/Challenges/302_hard/main.py",
+		"/C/Users/cyoth/Documents/Programming/Challenges/302_intermediate/README.txt",
+		"/C/Users/cyoth/Documents/Programming/Challenges/302_hard/test.py",
+		"/C/Users/cyoth/Documents/Programming/Challenges/302_hard/input1.csv",
+		"/C/Users/cyoth/Documents/Programming/Challenges/302_hard/input.csv",
+		"/C/Users/cyoth/Documents/Programming/Challenges/302_intermediate/functions.py",
+		"/C/Users/cyoth/Documents/Programming/Challenges/302_intermediate/main.py",
+		"/C/Users/cyoth/Documents/Programming/Challenges/302_intermediate/input.csv",
+		"/C/Users/cyoth/Documents/Programming/Challenges/302_intermediate/function.py",
+		"/C/Users/cyoth/Documents/Webpage/django/project1/mysite/settings.py",
+		"/C/Users/cyoth/Documents/Webpage/django/project1/blog/models.py",
+		"/C/Users/cyoth/Documents/Webpage/django/project1/blog/views.py",
+		"/C/Users/cyoth/Documents/Webpage/django/project1/mysite/templates/blog/base.html",
+		"/C/Users/cyoth/Documents/Webpage/django/project1/mysite/urls.py",
+		"/C/Users/cyoth/Documents/Webpage/django/project1/mysite/views.py",
+		"/C/Users/cyoth/Documents/Webpage/django/project1/blog/admin.py",
+		"/C/Users/cyoth/Documents/Webpage/django/project1/mysite/templates/blog/home.html",
+		"/C/Users/cyoth/Documents/Webpage/django/project1/mysite/templates/base.html",
+		"/C/Users/cyoth/Documents/Webpage/django/project1/mysite/static/base_style.css",
+		"/C/Users/cyoth/Documents/Webpage/django/project1/blog/migrations/__init__.py",
+		"/C/Users/cyoth/Documents/Webpage/django/project1/blog/migrations/0001_initial.py"
+	],
+	"find":
+	{
+		"height": 80.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Page",
+			"page",
+			"Page",
+			"page",
+			"      \tputs \"*** Adding Index on Foreign Key\"\n    \tadd_index(\"sections\",\"page_id\")",
+			"3",
+			"<= ",
+			"')\n",
+			"header-se",
+			"header",
+			"views",
+			"templates",
+			"index",
+			";\n",
+			"6s",
+			"600",
+			"This",
+			"20px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Section",
+			"section",
+			"Section",
+			"section"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 18,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 631,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/models/page.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								134,
+								134
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/models/admin_user.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 253,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								248,
+								248
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/models/section.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								128
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/models/section_edit.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 89,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								89
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/models/subject.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								51
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/controllers/subjects_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1718,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								519,
+								586
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 795.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/views/subjects/index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1004,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								359,
+								359
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/views/subjects/show.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 709,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								709
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/views/subjects/new.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 602,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								602,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "app/views/subjects/edit.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 623,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								170,
+								170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "app/views/subjects/delete.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								415
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "app/controllers/pages_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1043,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								267,
+								267
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 457.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "app/views/pages/index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 962,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								564,
+								564
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "app/views/pages/show.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1029,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1029
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "app/views/pages/new.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 784,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								784
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "app/views/pages/edit.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 787,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								743,
+								743
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "app/views/pages/delete.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								397
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "app/controllers/sections_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1005,
+								1005
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 330.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "app/views/sections/index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1006,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								405,
+								405
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "app/views/sections/show.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								357,
+								357
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "app/views/sections/new.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 897,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								897
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "app/views/sections/edit.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 900,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								783,
+								783
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "app/views/sections/delete.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								415,
+								415
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 52.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 144.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"settings",
+				"C:\\Users\\cyoth\\Documents\\Webpage\\django\\project1\\mysite\\settings.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
